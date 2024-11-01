@@ -1,4 +1,4 @@
-module github.com/sergi/go-diff
+module github.com/ericxzhao/go-diff
 
 go 1.23.2
 
